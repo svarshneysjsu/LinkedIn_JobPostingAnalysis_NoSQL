@@ -1,0 +1,4 @@
+raw_data/**/*.csv
+staging_data/**/*.csv
+staging_data/**/*.json
+**/.DS_Store
